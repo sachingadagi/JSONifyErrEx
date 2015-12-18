@@ -1,0 +1,1916 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"location",
+				"locationForm"
+			],
+			[
+				"pal",
+				"palkhi_fees"
+			],
+			[
+				"palkhis_fee",
+				"palkhis_fees_manager"
+			],
+			[
+				"pa",
+				"palkhis_fees_manager"
+			],
+			[
+				"palkhis_me",
+				"palkhis_members"
+			],
+			[
+				"totalProj",
+				"totalProjectViews"
+			],
+			[
+				"res",
+				"result2"
+			],
+			[
+				"fetc",
+				"fetch_assoc"
+			],
+			[
+				"nu",
+				"num_rows"
+			],
+			[
+				"total",
+				"total_codes"
+			],
+			[
+				"fe",
+				"fetch_assoc"
+			],
+			[
+				"country",
+				"countryCode"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"AUTH",
+				"AUTHKEY"
+			],
+			[
+				"CHECK",
+				"BALANCE_CHECK_URL"
+			],
+			[
+				"array_k",
+				"array_keys"
+			],
+			[
+				"mand",
+				"mandal"
+			],
+			[
+				"palkhis_walk",
+				"palkhis_walked_manager"
+			],
+			[
+				"prev",
+				"previewBox"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"palk",
+				"palkhi_arr"
+			],
+			[
+				"strpo",
+				"strpos()	standard Function"
+			],
+			[
+				"palkhi-m",
+				"palkhi-materials"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"em",
+				"emergency_phone"
+			],
+			[
+				"require",
+				"require_once	Language Construct"
+			],
+			[
+				"locat",
+				"locationsWordCloud"
+			],
+			[
+				"inq",
+				"inquiry_data"
+			],
+			[
+				"inqu",
+				"inquiry_id"
+			],
+			[
+				"userR",
+				"userRoleInput"
+			],
+			[
+				"companyP",
+				"companyPhoneInput"
+			],
+			[
+				"companyNam",
+				"companyNameInput"
+			],
+			[
+				"as",
+				"async"
+			],
+			[
+				"compa",
+				"companyPhoneInput"
+			],
+			[
+				"contac",
+				"contacts_limit"
+			],
+			[
+				"company",
+				"companys_limit"
+			],
+			[
+				"companynam",
+				"companyname"
+			],
+			[
+				"companyI",
+				"companyNameInput"
+			],
+			[
+				"acce",
+				"acceptMessage"
+			],
+			[
+				"companyu",
+				"companyurl"
+			],
+			[
+				"filterVi",
+				"filterVisibleBtn"
+			],
+			[
+				"filterV",
+				"filterView"
+			],
+			[
+				"bap",
+				"bappa_id"
+			],
+			[
+				"alb",
+				"album_id"
+			],
+			[
+				"rando",
+				"random_cover_picture"
+			],
+			[
+				"rand",
+				"random_picture"
+			],
+			[
+				"st",
+				"stumbleupon"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"ran",
+				"rand()	standard Function"
+			],
+			[
+				"scandir",
+				"scandir()	standard Function"
+			],
+			[
+				"imports_de",
+				"imports_details"
+			],
+			[
+				"contacts",
+				"contactsInsert"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"she",
+				"sheet_data"
+			],
+			[
+				"search",
+				"searchData"
+			],
+			[
+				"json_",
+				"json_encode"
+			],
+			[
+				"sear",
+				"search_params"
+			],
+			[
+				"companyU",
+				"companyUrl"
+			],
+			[
+				"fnameI",
+				"fnameDiv"
+			],
+			[
+				"tests_q",
+				"tests_question_id"
+			],
+			[
+				"ques",
+				"questionAnswers"
+			],
+			[
+				"test",
+				"test_id"
+			],
+			[
+				"que",
+				"questionsIds"
+			],
+			[
+				"list-styl",
+				"list-style-type"
+			],
+			[
+				"mai",
+				"main_object_key"
+			],
+			[
+				"modu",
+				"module_key"
+			],
+			[
+				"subsc",
+				"subscription_last_renewal"
+			],
+			[
+				"remove",
+				"remove_keys"
+			],
+			[
+				"remv",
+				"remove_keys"
+			],
+			[
+				"proper",
+				"property_exists()	Core Function"
+			],
+			[
+				"his",
+				"history_stats"
+			],
+			[
+				"cus",
+				"customers_manager"
+			],
+			[
+				"userna",
+				"usernameVal"
+			],
+			[
+				"usern",
+				"usernameVal"
+			],
+			[
+				"pass",
+				"passwordInput"
+			],
+			[
+				"passow",
+				"passwordVal"
+			],
+			[
+				"username",
+				"usernameInput"
+			],
+			[
+				"redi",
+				"redirectTo"
+			],
+			[
+				"us",
+				"usernameEmailSelector"
+			],
+			[
+				"exte",
+				"extend"
+			],
+			[
+				"sai_sm",
+				"sai_smarty_plugins"
+			],
+			[
+				"INV",
+				"INVALID_ICON"
+			],
+			[
+				"INVLI",
+				"INVALID_LABEL_KEY"
+			],
+			[
+				"INVALI",
+				"INVALID_LABEL"
+			],
+			[
+				"response",
+				"responseJSON"
+			],
+			[
+				"display",
+				"display_picture"
+			],
+			[
+				"defa",
+				"defaultSettings"
+			],
+			[
+				"righ",
+				"rights_count"
+			],
+			[
+				"regis",
+				"registerBox"
+			],
+			[
+				"displayJ",
+				"displayJsonKey"
+			],
+			[
+				"conte",
+				"contentType"
+			],
+			[
+				"columnn",
+				"columnName"
+			],
+			[
+				"colu",
+				"columnNames"
+			],
+			[
+				"downloadli",
+				"downloadlink"
+			],
+			[
+				"downloadlink",
+				"downloadlink_exception"
+			],
+			[
+				"down",
+				"downloadlink"
+			],
+			[
+				"strtotime",
+				"strtotime()	date Function"
+			],
+			[
+				"in_a",
+				"in_array()	standard Function"
+			],
+			[
+				"au",
+				"auth_manager"
+			],
+			[
+				"auth",
+				"auth_manager"
+			],
+			[
+				"downl",
+				"downloads_manager"
+			],
+			[
+				"error",
+				"error_msg"
+			],
+			[
+				"resp",
+				"response"
+			],
+			[
+				"erro",
+				"error_msg"
+			],
+			[
+				"respon",
+				"responseJSON"
+			],
+			[
+				"cust",
+				"customersFound"
+			],
+			[
+				"loadObjec",
+				"loadObjectInstance"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"implde",
+				"implode()	standard Function"
+			],
+			[
+				"saveF",
+				"savedFilterBtn"
+			],
+			[
+				"ajax",
+				"ajaxOptions"
+			],
+			[
+				"PNo",
+				"PNotify"
+			],
+			[
+				"pai",
+				"paidupcapital_range"
+			],
+			[
+				"thr",
+				"throw_e"
+			],
+			[
+				"p",
+				"paidupcapital_range_data"
+			],
+			[
+				"esta",
+				"establishedin_range"
+			],
+			[
+				"es",
+				"establishedin_range_data"
+			],
+			[
+				"paid",
+				"paidupcapital_range"
+			],
+			[
+				"est",
+				"establishedin_range"
+			],
+			[
+				"change",
+				"changePicture"
+			],
+			[
+				"hist",
+				"history"
+			],
+			[
+				"CALLBAC",
+				"FILTER_CALLBACK	filter Constant"
+			],
+			[
+				"indus",
+				"industryCount"
+			],
+			[
+				"import",
+				"imports_details	imports_details"
+			],
+			[
+				"customersUdp",
+				"customersUpdateData"
+			],
+			[
+				"com",
+				"companytype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pus",
+		"selected_items":
+		[
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"push",
+				"Git: Push Current Branch"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"Push",
+				"Git: Push Current Branch"
+			],
+			[
+				"reset ",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"git pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"new ta",
+				"Git: New Tag"
+			],
+			[
+				"tag",
+				"Git: Show Tags"
+			],
+			[
+				"show ta",
+				"Git: Show Tags"
+			],
+			[
+				"waka",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"push ",
+				"Git: Push Current Branch"
+			],
+			[
+				"push tags",
+				"Git: Push Tags"
+			],
+			[
+				"push tag",
+				"Git: Push Tags"
+			],
+			[
+				"new tag",
+				"Git: New Tag"
+			],
+			[
+				"push cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"diff",
+				"Git: Diff All Files"
+			],
+			[
+				"ntag",
+				"Git: New Tag"
+			],
+			[
+				"sho ta",
+				"Git: Show Tags"
+			],
+			[
+				"omm",
+				"Git: Commit"
+			],
+			[
+				"dd",
+				"Git (SideBarGit): Branch: delete even if unmerged (force deletion)…"
+			],
+			[
+				"status",
+				"Git: Status"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pussh",
+				"Git: Push Tags"
+			],
+			[
+				"comm ",
+				"Git: Commit"
+			],
+			[
+				"unsta",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"fmt form",
+				"phpfmt: format now"
+			],
+			[
+				"ush",
+				"Git: Push Current Branch"
+			],
+			[
+				"smarty",
+				"Set Syntax: Smarty"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"brows",
+				"Preferences: Browse Packages"
+			],
+			[
+				"phpfmt data",
+				"phpfmt: build autocomplete database"
+			],
+			[
+				"databa",
+				"phpfmt: build autocomplete database"
+			],
+			[
+				"data",
+				"phpfmt: build autocomplete database"
+			],
+			[
+				"phpcs p",
+				"phpfmt: build autocomplete database"
+			],
+			[
+				"phpcs",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"puh",
+				"Git: Push Current Branch"
+			],
+			[
+				"PULL",
+				"Git: Pull Current Branch"
+			],
+			[
+				"ull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"forma",
+				"phpfmt: format now"
+			],
+			[
+				"fmt for",
+				"phpfmt: format now"
+			],
+			[
+				"git pull",
+				"Git: Pull Current Branch"
+			],
+			[
+				"reset",
+				"Git: Reset (hard) HEAD"
+			],
+			[
+				"push cur",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push ta",
+				"Git: Push Tags"
+			],
+			[
+				"git push tags",
+				"Git: Push Tags"
+			],
+			[
+				"git push",
+				"Git: Push Current Branch"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"ush cu",
+				"Git: Push Current Branch"
+			],
+			[
+				"push c",
+				"Git: Push Current Branch"
+			],
+			[
+				"statu",
+				"Git: Status"
+			],
+			[
+				"gitpush",
+				"Git: Push Tags"
+			],
+			[
+				"tags",
+				"Git: Show Tags"
+			],
+			[
+				"c",
+				"Git: Commit"
+			],
+			[
+				"coom",
+				"Git Conflict Resolver: Keep Common Ancestor"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"stats",
+				"Snippet: bs3-table-striped"
+			],
+			[
+				"git check",
+				"Git (SideBarGit): Checkout to…"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fmt toggle",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"git merge",
+				"Git: Merge Branch"
+			],
+			[
+				"commit",
+				"Git: Amend Commit"
+			],
+			[
+				"phpfmt to",
+				"phpfmt: toggle PHP 5.5 compatibility mode"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"bs3 sni",
+				"Snippet: bs3-navbar-static-top"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Snippet: Comment - Single-line block comment"
+			],
+			[
+				"code sni",
+				"PHP Code Sniffer: Sniff this file"
+			],
+			[
+				"code",
+				"PHP Code Sniffer: Turn Execute On Save On"
+			],
+			[
+				"fmt",
+				"phpfmt: format now"
+			],
+			[
+				"a",
+				"Git: Add..."
+			],
+			[
+				"fmt ps",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"format",
+				"phpfmt: format now"
+			],
+			[
+				"phpfmt",
+				"phpfmt: toggle PSR2"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - User"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"pretti",
+				"HTMLPrettify"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Comm",
+				"Git: Commit"
+			],
+			[
+				"coo",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"merge",
+				"Git: Merge"
+			],
+			[
+				"mer",
+				"Git: Merge"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"lin",
+				"SublimeGit: Version"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 664.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"break"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/SAI Lab/Tools/wamp/www/JSONifyErrEx"
+	],
+	"file_history":
+	[
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/platform/install/mysql/data.sql",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/page.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/platform/tools/assign_roles_rights.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/platform/tools/assign_users_roles.php",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/managers/users_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/CastingCalls/gui/templates/admin/streamvideos/edit.tpl",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/platform/install/mysql/tables.sql",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/app/dashboard.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/composer.json",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/bootstrap-interphase/inc_header.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/app/inc_footer.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/app/inc_no_search_results.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/app/inc_head.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/includes/givetest.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/general/inc_header.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/platform/install/mysql/tables.sql",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/bower.json",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/bootstrap-interphase/inc_head.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/files.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/bootstrap-interphase/css/style.css",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/bootstrap-interphase/register.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/test/api/auth.class.test.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/app/givetest.tpl",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/includes/app/dashboard.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/gui/templates/bootstrap-interphase/inc_footer.tpl",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/gcm.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/feedpurposes.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/feedbacks_comments.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/feedbacks.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/installer.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/html2text.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/audits_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/managers/audits_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/siteconfigs.class.php",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/core.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/core.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/common.inc.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/base_webdriver.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/registry/icons.json",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_workexperience.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_teachers.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/changedevice.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/menus.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_courses.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_parents.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_subjects.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_roles.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_rights.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_fees.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_notifications.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/tests_results.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/translations.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/users_addresses.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/pages.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/types.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/rights.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/topics.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/roles.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/tests_questions.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/search_index.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/tests_answers.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/tests.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/subjects_teachers.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/subjects_courses.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/subjects.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/sites_configs.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/sites.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/roles_rights.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/questions.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/reachus.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/modules.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/notifications.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/notificationsqueue.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/chapters.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/configs.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/downloads.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/events.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/contactus.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/courses.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/courses_subjects.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/tests_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/tests_results_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/audits.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/auth.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/boards.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/tests_answers_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/tests_questions_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/topics_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/translations_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_workexperience_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_teachers_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_subjects_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/types_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/siteconfigs.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_addresses_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_courses_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_fees_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_notifications_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_parents_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_rights_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/users_roles_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/albums.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/modules/albums_files.class.php",
+		"/D/SAI Lab/Tools/wamp/www/SaichiPalkhi/api/modules/configs.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/auth_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/backup_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/boards_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/changedevice_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/chapters_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/configs_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/contactus_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/courses_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/courses_subjects_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/downloads_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/email_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/events_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/feedbacks_comments_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/feedbacks_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/feedpurposes_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/files_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/ftp_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/gcm_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/installer_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/iSaiBaseManager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/logs_manager.class.php",
+		"/D/SAI Lab/Tools/wamp/www/ASPClasses.in/api/managers/menus_manager.class.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open folders>",
+			"<open folders>,D:\\SAI Lab\\Tools\\wamp\\www\\SaiParayan",
+			"<open folders>",
+			"D:\\SAI Lab\\Tools\\wamp\\www\\mailBandya",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"js_assets",
+			"admin",
+			"palkhi.",
+			"palkhi",
+			"sailab",
+			"'sms'",
+			"\"sms\"",
+			"\"rest\"",
+			"'rest'",
+			"/RohanSakhale.Com/",
+			"\"/images",
+			"\"/image",
+			"mysql_real_escape_string",
+			"ENGINE=MyISAM DEFAULT CHARSET=latin1",
+			"phone",
+			"mergeContactDetails",
+			"mergeContactDetails\n",
+			"channels_schedules",
+			"mandals_members",
+			"frame",
+			"iframe",
+			"user_id",
+			"-md-",
+			"Register",
+			"double",
+			"palkhi_material",
+			"palkhis_materials",
+			"palkhis_snacks",
+			"date",
+			"palkhis_sponsors",
+			"palkhis_snacks",
+			"palkhis_materials",
+			"AdminLTE Custom Tabs",
+			"'}\n",
+			"date",
+			"palkhis_expenses",
+			"palkhis_snacks",
+			"palkhis_sponsors",
+			"palkhis_materials",
+			"palkhis_materials.",
+			"mandals_vessels.",
+			"palkhi",
+			"mandal",
+			"palkhis",
+			"740px",
+			"#main",
+			"main",
+			"login-box",
+			"INVALID_ANNIVERSARY_DATE",
+			"pages",
+			");\n",
+			"[",
+			"timezone",
+			"default-timezone",
+			"css/font-awesome.min.css",
+			"css/font-awesome.min.css Failed to load resource: the server responded with a status of 404 (Not Found)",
+			"font-awesom",
+			"locationsWordCloud",
+			"corona_side_",
+			"0px",
+			"Non",
+			"Album 2015 Maza Bappa",
+			"margin-b",
+			"bappa-container",
+			"email",
+			"OBJECT_REQ",
+			"MODULE_OBJECT_REQ",
+			"module_object_req",
+			"excp_modules_module_object_req",
+			"save_inquiry_user",
+			"md-",
+			"phoneINpu",
+			"resend-reminder",
+			"unlink",
+			"ganesha-title",
+			"lightbox",
+			"fanc",
+			"dashboard",
+			"parse(",
+			"/ganesha/",
+			"/ganesha",
+			"panel-bappa-forgot-password",
+			"panel-bappa-login",
+			"panel-bappa-details",
+			"changepassword",
+			"changepassword\n",
+			"bappa-change-password",
+			"nav",
+			"md-",
+			"locale",
+			"bappa-header",
+			".*\",",
+			"Move to next page",
+			"marital_status",
+			"Mandrill_Users",
+			"pno",
+			"enq",
+			"about",
+			"contact_",
+			"how_can_you_help",
+			"DELETE",
+			"ruddy",
+			"$user.associates",
+			"$user.associations",
+			"$user.resumes",
+			"$user.trainings",
+			"$user.videos",
+			"$user.workareas",
+			"$user.reels",
+			"users_associations",
+			"UPDATE `users` SET `fname`",
+			"curr",
+			"salesChart",
+			"Monthly Cap",
+			"menus",
+			"INSERT INTO `imports_details`",
+			"username",
+			"login-form",
+			"localhost",
+			" `description` text NOT NULL,",
+			"phone1",
+			"/* prefix */",
+			"site_name",
+			"keyup",
+			"rights_count",
+			"path\":",
+			"path",
+			"owl"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"js_vendor_assets",
+			"$this->con->real_escape_string",
+			"ENGINE=InnoDB DEFAULT CHARSET=utf8",
+			"palkhis_members",
+			"-sm-",
+			"mandal_vessel",
+			"mandals_vessels",
+			"palkhis_spots",
+			"palkhis_sponsors",
+			"palkhis_snacks",
+			"palkhis_spots",
+			"palkhis_expenses",
+			"palkhis_sponsors",
+			"palkhis_snack.",
+			"palkhis_snacks.",
+			"palkhis_snack.",
+			"palkhis_materials.",
+			"mandal",
+			"palkhi",
+			"induction_side_",
+			"sm-",
+			"parseSharrre(",
+			"sm-",
+			"$user.users_associates",
+			"$user.users_associations",
+			"$user.users_resumes",
+			"$user.users_trainings",
+			"$user.users_videos",
+			"$user.users_workareas",
+			"$user.users_reels",
+			"history",
+			"password",
+			" `description` text DEFAULT NULL,",
+			"",
+			"<img src=\"{$js_assets}/startup-template/assets/img/",
+			"saved",
+			"customer",
+			"$customersInsertData",
+			"$",
+			"",
+			"Sai Ashirwad Informatia",
+			"data-date-format=\"DD/MM/YYYY\"",
+			"imports_details",
+			"col-sm-",
+			"col-sm",
+			"sai.jobSqBox(",
+			"sm-",
+			"nq_manager",
+			"this->object-",
+			"",
+			"$notifications",
+			"-sm",
+			"console.warn"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 128.0
+	},
+	"output.git-commit":
+	{
+		"height": 100.0
+	},
+	"output.git-pull":
+	{
+		"height": 0.0
+	},
+	"output.git-push":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "jsonify-err-ex.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"assignusersrole",
+				"ASPClasses.in\\platform\\tools\\assign_users_roles.php"
+			],
+			[
+				"assignroles",
+				"ASPClasses.in\\platform\\tools\\assign_roles_rights.php"
+			],
+			[
+				"page.php",
+				"ASPClasses.in\\page.php"
+			],
+			[
+				"users_mana",
+				"ASPClasses.in\\api\\managers\\users_manager.class.php"
+			],
+			[
+				"users_manager",
+				"SaichiPalkhi\\api\\managers\\users_manager.class.php"
+			],
+			[
+				"data.sql",
+				"ASPClasses.in\\platform\\install\\mysql\\data.sql"
+			],
+			[
+				"streamedit.tpl",
+				"CastingCalls\\gui\\templates\\admin\\streamvideos\\edit.tpl"
+			],
+			[
+				"dashboard.php",
+				"SaichiPalkhi\\api\\includes\\app\\dashboard.php"
+			],
+			[
+				"givetest.php",
+				"ASPClasses.in\\api\\includes\\givetest.php"
+			],
+			[
+				"noresult",
+				"ASPClasses.in\\gui\\templates\\app\\inc_no_search_results.tpl"
+			],
+			[
+				"appinc_footer.tpl",
+				"ASPClasses.in\\gui\\templates\\app\\inc_footer.tpl"
+			],
+			[
+				"appinc_head.tpl",
+				"ASPClasses.in\\gui\\templates\\app\\inc_head.tpl"
+			],
+			[
+				"givetest.tpl",
+				"ASPClasses.in\\gui\\templates\\app\\givetest.tpl"
+			],
+			[
+				"auth.te",
+				"ASPClasses.in\\test\\api\\auth.class.test.php"
+			],
+			[
+				"register.tpl",
+				"ASPClasses.in\\gui\\templates\\bootstrap-interphase\\register.tpl"
+			],
+			[
+				"style.css",
+				"ASPClasses.in\\gui\\templates\\bootstrap-interphase\\css\\style.css"
+			],
+			[
+				"files.cla",
+				"ASPClasses.in\\api\\modules\\files.class.php"
+			],
+			[
+				"interpinc_footer.tpl",
+				"ASPClasses.in\\gui\\templates\\bootstrap-interphase\\inc_footer.tpl"
+			],
+			[
+				"bower.json",
+				"ASPClasses.in\\bower.json"
+			],
+			[
+				"aspdashb",
+				"ASPClasses.in\\gui\\templates\\app\\dashboard.tpl"
+			],
+			[
+				"tables.sql",
+				"SaichiPalkhi\\platform\\install\\mysql\\tables.sql"
+			],
+			[
+				"table.sql",
+				"ASPClasses.in\\platform\\install\\mysql\\tables.sql"
+			],
+			[
+				"users.cla",
+				"ASPClasses.in\\api\\modules\\users.class.php"
+			],
+			[
+				"aspusers_manager",
+				"ASPClasses.in\\api\\managers\\users_manager.class.php"
+			],
+			[
+				"aspinc_head.tpl",
+				"ASPClasses.in\\gui\\templates\\general\\inc_header.tpl"
+			],
+			[
+				"site",
+				"SaichiPalkhi\\api\\siteconfigs.class.php"
+			],
+			[
+				"corecl",
+				"SaichiPalkhi\\api\\core.class.php"
+			],
+			[
+				"auditsmana",
+				"ASPClasses.in\\api\\managers\\audits_manager.class.php"
+			],
+			[
+				"audits_mana",
+				"SaichiPalkhi\\api\\managers\\audits_manager.class.php"
+			],
+			[
+				"tests_res",
+				"ASPClasses.in\\api\\managers\\tests_results_manager.class.php"
+			],
+			[
+				"testsresu",
+				"ASPClasses.in\\api\\managers\\tests_results_manager.class.php"
+			],
+			[
+				"testsanswersmana",
+				"ASPClasses.in\\api\\managers\\tests_answers_manager.class.php"
+			],
+			[
+				"tests_anwers",
+				"ASPClasses.in\\api\\modules\\tests_answers.class.php"
+			],
+			[
+				"testsmana",
+				"ASPClasses.in\\api\\managers\\tests_manager.class.php"
+			],
+			[
+				"typesmana",
+				"ASPClasses.in\\api\\managers\\types_manager.class.php"
+			],
+			[
+				"siteconfigs",
+				"ASPClasses.in\\api\\siteconfigs.class.php"
+			],
+			[
+				"siteconfig",
+				"SaichiPalkhi\\api\\siteconfigs.class.php"
+			],
+			[
+				"configs",
+				"SaichiPalkhi\\api\\modules\\configs.class.php"
+			],
+			[
+				"core.cla",
+				"ASPClasses.in\\api\\core.class.php"
+			],
+			[
+				"base_ma",
+				"SaichiPalkhi\\api\\base\\base_manager.class.php"
+			],
+			[
+				"testsqu",
+				"ASPClasses.in\\api\\managers\\tests_questions_manager.class.php"
+			],
+			[
+				"testsmanager",
+				"ASPClasses.in\\api\\managers\\tests_manager.class.php"
+			],
+			[
+				"testmana",
+				"ASPClasses.in\\api\\managers\\tests_manager.class.php"
+			],
+			[
+				"testsm",
+				"ASPClasses.in\\api\\managers\\tests_manager.class.php"
+			],
+			[
+				"tests_mana",
+				"ASPClasses.in\\api\\managers\\tests_manager.class.php"
+			],
+			[
+				"palkhis_tac",
+				"SaichiPalkhi\\api\\managers\\palkhis_tracker_manager.class.php"
+			],
+			[
+				"modules.json",
+				"SaichiPalkhi\\api\\registry\\modules.json"
+			],
+			[
+				"inc_header.tpl",
+				"SaichiPalkhi\\gui\\templates\\app\\inc_header.tpl"
+			],
+			[
+				"saiquer",
+				"SaichiPalkhi\\assets\\js\\saiquery.js"
+			],
+			[
+				"saiqu",
+				"SaichiPalkhi\\assets\\js\\saiquery.js"
+			],
+			[
+				"saiquerycu",
+				"SaichiPalkhi\\assets\\js\\saiquery_custom.js"
+			],
+			[
+				"dashboard",
+				"SaichiPalkhi\\gui\\templates\\app\\dashboard.tpl"
+			],
+			[
+				"core.cl",
+				"SaichiPalkhi\\api\\core.class.php"
+			],
+			[
+				"palkhi_base_",
+				"SaichiPalkhi\\api\\base\\palkhi_base_manager.class.php"
+			],
+			[
+				"sqls.log",
+				"SaichiPalkhi\\data\\logs\\sqls.log"
+			],
+			[
+				"palkhi_fees_mana",
+				"SaichiPalkhi\\api\\managers\\palkhis_fees_manager.class.php"
+			],
+			[
+				"signup.php",
+				"SaichiPalkhi\\api\\includes\\signup.php"
+			],
+			[
+				"palkhis",
+				"SaichiPalkhi\\api\\modules\\palkhis.class.php"
+			],
+			[
+				"page.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\page.tpl"
+			],
+			[
+				"inc_nav.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\inc_nav.tpl"
+			],
+			[
+				"palkhis.cl",
+				"SaichiPalkhi\\api\\modules\\palkhis.class.php"
+			],
+			[
+				"edit_palkhi.tpl",
+				"SaichiPalkhi\\gui\\templates\\app\\edit_palkhi.tpl"
+			],
+			[
+				"inc_head.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\inc_head.tpl"
+			],
+			[
+				"signup.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\signup.tpl"
+			],
+			[
+				"bootstrastyle.css",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\css\\style.css"
+			],
+			[
+				"inc_footer.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\inc_footer.tpl"
+			],
+			[
+				"palkhis.cla",
+				"SaichiPalkhi\\api\\modules\\palkhis.class.php"
+			],
+			[
+				"palkhis_mana",
+				"SaichiPalkhi\\api\\managers\\palkhis_manager.class.php"
+			],
+			[
+				"palkhis_ex",
+				"SaichiPalkhi\\api\\exceptions\\palkhis_exception.class.php"
+			],
+			[
+				"signup",
+				"SaichiPalkhi\\api\\includes\\signup.php"
+			],
+			[
+				"palkhideta",
+				"SaichiPalkhi\\gui\\templates\\app\\palkhi_details.tpl"
+			],
+			[
+				"palkhi",
+				"SaichiPalkhi\\gui\\templates\\app\\palkhi_travellers.tpl"
+			],
+			[
+				"edit_pal",
+				"SaichiPalkhi\\gui\\templates\\app\\edit_palkhi.tpl"
+			],
+			[
+				"core.class",
+				"SaichiPalkhi\\api\\core.class.php"
+			],
+			[
+				"gitlab",
+				"SaichiPalkhi\\.gitlab-ci.yml"
+			],
+			[
+				"mypalkhi",
+				"SaichiPalkhi\\api\\includes\\my_palkhis.php"
+			],
+			[
+				"index.tpl",
+				"SaichiPalkhi\\gui\\templates\\bootstrap-linear\\index.tpl"
+			],
+			[
+				"tabl",
+				"RohanSakhale.Com\\tables.sql"
+			],
+			[
+				"tables",
+				"RohanSakhale.Com\\tables.sql"
+			],
+			[
+				"mysqli",
+				"SaichiPalkhi\\api\\mysqlidb.class.php"
+			],
+			[
+				"funcs",
+				"RohanSakhale.Com\\funcs.php"
+			],
+			[
+				"sqls",
+				"SaichiPalkhi\\data\\logs\\sqls.log"
+			],
+			[
+				"incfooter",
+				"SaichiPalkhi\\gui\\templates\\app\\inc_footer.tpl"
+			],
+			[
+				"dashboard.tpl",
+				"SaichiPalkhi\\gui\\templates\\app\\dashboard.tpl"
+			],
+			[
+				"appstyle.css",
+				"SaichiPalkhi\\gui\\templates\\app\\css\\style.css"
+			],
+			[
+				"mandal_vessels.tpl",
+				"SaichiPalkhi\\gui\\templates\\app\\mandal_vessels.tpl"
+			],
+			[
+				"inc_footer",
+				"SaichiPalkhi\\gui\\templates\\app\\inc_footer.tpl"
+			],
+			[
+				"adminindex.html",
+				"SaichiPalkhi\\assets\\js\\vendor\\admin-lte\\index.html"
+			],
+			[
+				"palkhi_trave",
+				"SaichiPalkhi\\gui\\templates\\app\\palkhi_travellers.tpl"
+			],
+			[
+				"simplerest",
+				"SimpleRest\\test\\SimpleRestTest.php"
+			],
+			[
+				"sendsms",
+				"SendSMS\\src\\sailabs\\SendSMS.php"
+			],
+			[
+				"sms_mana",
+				"SaichiPalkhi\\api\\managers\\sms_manager.class.php"
+			],
+			[
+				"sms_manager",
+				"api\\managers\\sms_manager.class.php"
+			],
+			[
+				"data.sq",
+				"platform\\install\\mysql\\data.sql"
+			],
+			[
+				"users.cl",
+				"api\\modules\\users.class.php"
+			],
+			[
+				"const",
+				"api\\cfg\\const.inc.php"
+			],
+			[
+				"add_mandal_m",
+				"api\\includes\\app\\add_mandal_member.php"
+			],
+			[
+				"add_manda",
+				"gui\\templates\\app\\add_mandal_member.tpl"
+			],
+			[
+				"inc_mandal",
+				"gui\\templates\\app\\inc_mandal_box.tpl"
+			],
+			[
+				"inc_palkhi",
+				"gui\\templates\\app\\inc_palkhi_box.tpl"
+			],
+			[
+				"useredit.tpl",
+				"gui\\templates\\admin\\users\\edit.tpl"
+			],
+			[
+				"uigeneral.html",
+				"assets\\js\\vendor\\admin-lte\\pages\\UI\\general.html"
+			],
+			[
+				"edit_manda",
+				"gui\\templates\\app\\edit_mandal.tpl"
+			],
+			[
+				"add_member",
+				"gui\\templates\\app\\add_mandal_member.tpl"
+			],
+			[
+				"mandal_details",
+				"gui\\templates\\app\\mandal_details.tpl"
+			],
+			[
+				"palkhi_detailstpl",
+				"gui\\templates\\app\\palkhi_details.tpl"
+			],
+			[
+				"mandal_deta",
+				"api\\includes\\app\\mandal_details.php"
+			],
+			[
+				"palkhis_manager",
+				"SaichiPalkhi\\api\\managers\\palkhis_manager.class.php"
+			],
+			[
+				"castintables.sql",
+				"CastingCalls\\platform\\install\\mysql\\tables.sql"
+			],
+			[
+				"palkhi_base",
+				"api\\base\\palkhi_base_manager.class.php"
+			],
+			[
+				"base_mana",
+				"api\\base\\base_manager.class.php"
+			],
+			[
+				"edit_mandal",
+				"gui\\templates\\app\\edit_mandal.tpl"
+			],
+			[
+				"mandals_mana",
+				"api\\managers\\mandals_manager.class.php"
+			],
+			[
+				"mandals_members_mana",
+				"api\\managers\\mandals_members_manager.class.php"
+			],
+			[
+				"common",
+				"api\\common.inc.php"
+			],
+			[
+				"auth_mana",
+				"api\\managers\\auth_manager.class.php"
+			],
+			[
+				"users_roles",
+				"platform\\tools\\assign_users_roles.php"
+			],
+			[
+				"index.html",
+				"assets\\js\\vendor\\admin-lte\\index.html"
+			],
+			[
+				"saiqueryc",
+				"assets\\js\\saiquery_custom.js"
+			],
+			[
+				"dash",
+				"api\\includes\\app\\dashboard.php"
+			],
+			[
+				"palkhis_member",
+				"api\\modules\\palkhis_members.class.php"
+			],
+			[
+				"palkhis_walk",
+				"api\\managers\\palkhis_walked_manager.class.php"
+			],
+			[
+				"palhi_base",
+				"api\\base\\palkhi_base_manager.class.php"
+			],
+			[
+				"mandals_mem",
+				"api\\managers\\mandals_members_manager.class.php"
+			],
+			[
+				"das",
+				"api\\includes\\app\\dashboard.php"
+			],
+			[
+				"add_pal",
+				"api\\includes\\app\\add_palkhi_traveller.php"
+			],
+			[
+				"uigeneral",
+				"assets\\js\\vendor\\admin-lte\\pages\\UI\\general.html"
+			],
+			[
+				"add_palkhi",
+				"gui\\templates\\app\\add_palkhi_traveller.tpl"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
