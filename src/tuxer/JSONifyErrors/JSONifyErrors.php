@@ -12,7 +12,7 @@ namespace tuxer\JSONifyErrors;
 class JSONifyErrors extends \Exception implements \JsonSerializable
 {
 
-    private $logLevel;
+    private static $logLevel;
 
     /**
      * @param $mixedVariable
@@ -20,17 +20,17 @@ class JSONifyErrors extends \Exception implements \JsonSerializable
     public function __construct($message, $code = 0, $previous = null)
     {
         parent::__construct($message, $code, $previous);
-        $this->logLevel = ErrorsAndExceptions::LOG_INFO;
+        self::$logLevel = ErrorsAndExceptions::LOG_INFO;
     }
 
     /**
      * @param $logLevel
      */
-    public function setLogLevel($logLevel)
+    public static function setLogLevel($logLevel)
     {
         if ($logLevel <= ErrorsAndExceptions::LOG_INFO
             and $logLevel >= ErrorsAndExceptions::LOG_ERR) {
-            $this->logLevel = $logLevel;
+            self::$logLevel = $logLevel;
         } else {
             throw new \Exception("JSONifyErrors: INVALID LOG LEVEL SET", ErrorsAndExceptions::ERROR_INVALID_LOG_LEVEL);
         }
@@ -46,8 +46,9 @@ class JSONifyErrors extends \Exception implements \JsonSerializable
             'code'    => $this->getCode(),
             'line'    => $this->getLine(),
         ];
-        if ($this->logLevel <= ErrorsAndExceptions::LOG_DEBUG) {
-            $error['trace'] = $this->mixedVariable->getTrace();
+
+        if (self::$logLevel == ErrorsAndExceptions::LOG_DEBUG) {
+            $error['trace'] = $this->getTrace();
         }
 
         return $error;
