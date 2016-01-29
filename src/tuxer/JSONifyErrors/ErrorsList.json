@@ -1,0 +1,6 @@
+{
+	"0" : "0th Error",
+	"10001" : "Configuration file not found",
+	"10002" : "Invalid JSONify Exception Invoked",
+	"10003" : "Sample Error"
+}

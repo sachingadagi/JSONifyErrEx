@@ -1,0 +1,27 @@
+{
+	"name" : "tuxer/JSONifyErrEx",
+	"type" : "library",
+	"description" : "JSONify Exceptions",
+	"keywords" : ["json", "error", "exception", "handling"],
+	"homepage" : "https://github.com/sachingadagi/JSONifyErrEx",
+	"license" : "MIT",
+	"authors" : [
+		{
+			"name" : "Sachin Anand Gadagi",
+			"email" : "sgadagi@gmail.com",
+			"homepage" : "http://sachingadagi.in"
+		}
+	],
+	"autoload" : {
+		"psr-0" : {
+			"tuxer\\" : "src"
+		}
+	},
+	"require" : {
+		"php" : ">=5.4",
+		"apache/log4php": "^2.3.0"
+	},
+    "require-dev": {
+        "phpunit/phpunit": "^4.6"
+    }
+}
