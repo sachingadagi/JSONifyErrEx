@@ -41,7 +41,7 @@ ini_set("zlib.output_compression", "On");
 /**
  *     Load Third Party Classes
  */
-if (file_exists('vendor' . DS . 'autoload.php')) {
-    require_once 'vendor/autoload.php';
+if (file_exists(JSONIFY_BASEPATH . 'vendor' . DS . 'autoload.php')) {
+    require_once JSONIFY_BASEPATH . 'vendor/autoload.php';
 }
-require_once 'src/Autoload.php';
+require_once JSONIFY_BASEPATH . 'src/Autoload.php';
