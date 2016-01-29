@@ -2,7 +2,6 @@
 
 namespace tuxer\test;
 
-use tuxer\JSONifyErrors\ErrorsAndExceptions;
 use tuxer\JSONifyErrors\JSONifyErrors;
 
 class JSONifyErrExTest extends \PHPUnit_Framework_TestCase
@@ -19,7 +18,6 @@ class JSONifyErrExTest extends \PHPUnit_Framework_TestCase
 
     public function testDebugException()
     {
-        JSONifyErrors::setLogLevel(ErrorsAndExceptions::LOG_DEBUG);
         try {
             throw new JSONifyErrors("This error comes with stacktrace", 901);
         } catch (JSONifyErrors $e) {

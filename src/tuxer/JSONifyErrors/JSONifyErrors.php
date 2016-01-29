@@ -12,7 +12,7 @@ namespace tuxer\JSONifyErrors;
 class JSONifyErrors extends \Exception implements \JsonSerializable
 {
 
-    private static $logLevel;
+    private $logger;
 
     /**
      * @param $mixedVariable
@@ -20,20 +20,8 @@ class JSONifyErrors extends \Exception implements \JsonSerializable
     public function __construct($message, $code = 0, $previous = null)
     {
         parent::__construct($message, $code, $previous);
-        self::$logLevel = ErrorsAndExceptions::LOG_INFO;
-    }
-
-    /**
-     * @param $logLevel
-     */
-    public static function setLogLevel($logLevel)
-    {
-        if ($logLevel <= ErrorsAndExceptions::LOG_INFO
-            and $logLevel >= ErrorsAndExceptions::LOG_ERR) {
-            self::$logLevel = $logLevel;
-        } else {
-            throw new \Exception("JSONifyErrors: INVALID LOG LEVEL SET", ErrorsAndExceptions::ERROR_INVALID_LOG_LEVEL);
-        }
+        \Logger::configure(JSONIFY_BASEPATH . DS . 'config.xml');
+        $this->logger = \Logger::getLogger("main");
     }
 
     /**
@@ -46,36 +34,9 @@ class JSONifyErrors extends \Exception implements \JsonSerializable
             'code'    => $this->getCode(),
             'line'    => $this->getLine(),
         ];
-
-        if (self::$logLevel == ErrorsAndExceptions::LOG_DEBUG) {
-            $error['trace'] = $this->getTrace();
+        if ($this->logger->isDebugEnabled()) {
+            '$error['trace'] = $this->getTrace();
         }
-
         return $error;
     }
-
-    /**
-     * @return string returns stringified json from the exception object
-     */
-    public function prepareJSON()
-    {
-        $error = [];
-
-        #depending the type,nature of exception handle them
-        if ($this->error_type == ErrorsAndExceptions::TYPE_PDOException) {
-
-            #using inbuilt functions
-            $error["line"] = $this->mixedVariable->getLine();
-            $error["code"] = $this->mixedVariable->getCode();
-            $error["trace"] = $this->mixedVariable->getTraceAsString();
-
-            # custom error , will return only the phrase that carries the actual error messages e.g  "DevError": " Integrity constraint violation"
-            $error["DevError"] = explode(":", $this->mixedVariable->getMessage())[1];
-
-            $this->jsonified_error = json_encode($error);
-
-        }
-        return json_encode($this->jsonified_error);
-    }
-
 }

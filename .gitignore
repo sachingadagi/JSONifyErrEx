@@ -9,3 +9,4 @@ vendor/*
 !vendor/README
 composer.lock
 *~
+*.sublime-workspace
