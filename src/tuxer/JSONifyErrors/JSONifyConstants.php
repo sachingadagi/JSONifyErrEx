@@ -1,7 +1,7 @@
 <?php
 /**
- * Class JSONifyErrors
- * A utility/helper class that will jsonify the errors/Exception messages
+ * JSONifyConstants
+ * Maintains easy callable error constants while throwing exceptions
  *
  * @author Rohan Sakhale <rs@saiashirwad.com>
  *
