@@ -51,7 +51,7 @@ class JSONifyErrors extends \Exception implements \JsonSerializable
         if (file_exists($file)) {
             $errorFileContents = file_get_contents($file);
             $errorsMsgList = json_decode($errorFileContents, true);
-            self::$errorsList += $errorsMsgList;
+            self::$errorsList = array_replace(self::$errorsList, $errorsMsgList);
         } else {
             throw new JSONifyErrors("Configuration file not found", 10001);
         }
