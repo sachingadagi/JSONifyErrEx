@@ -1,5 +1,8 @@
 # JSONifyErrEx
-Throw JSON serializable exceptions with customized message and error code handling
+
+Utility class in PHP that prepares JSON from the Exception
+Exceptions that may occur, especially when building a REST API's can cause problems in parsing http responses.
+This class helps in generating JSON that can directly be passed as response object.
 
 # How to use
 
@@ -72,11 +75,10 @@ class MyMain
 }
 ```
 
+
 Finally, call your main class to perform some activity
 
 ```
 $myMain = new MyMain;
 $myMain->m1();
 ```
-
-Checkout this [sample code](sample)
