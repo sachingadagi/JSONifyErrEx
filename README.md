@@ -11,14 +11,14 @@ Lets throw a quick exception
 ## Your Code
 
 ```
-	try
-	{
-		JSONifyErrors::throw(JSONifyConstants::SAMPLE_ERROR);
-	}
-	catch(JSONifyErrors $e)
-	{
-		echo json_encode($e);
-	}
+try
+{
+	JSONifyErrors::throw(JSONifyConstants::SAMPLE_ERROR);
+}
+catch(JSONifyErrors $e)
+{
+	echo json_encode($e);
+}
 ```
 
 ## Output
